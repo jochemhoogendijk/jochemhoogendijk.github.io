@@ -9,7 +9,7 @@ My current research is on solving and deducing properties of first-order conserv
 
 ## Publications
 Below you can find my preprints and publications.
-- Higher order moments for SPDE with monotone nonlinearities [Link](https://arxiv.org/abs/2203.15307)
+- Higher order moments for SPDE with monotone nonlinearities (with Manuel Gnann and Mark Veraar). [Link](https://arxiv.org/abs/2203.15307)
 
 
 
@@ -30,7 +30,7 @@ I have been involved as a student assistant in several courses:
 
 # Personal
 If you are interested what I do or think outside of mathematics, please see below. I must admit though that much of my personal life also involves mathematics in some way or another.
-## Articles
+## Interesting Articles
 Once in a while I run into a fascinating article and may add it to the list below. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
 - [We shouldn't give classroom lectures anymore](https://www.nieuwarchief.nl/serie5/pdf/naw5-2023-24-3-145.pdf)
 - [Being a noob](http://www.paulgraham.com/noob.html)
