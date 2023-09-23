@@ -2,122 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Professional
+## Research interest
+My current research is on solving and deducing properties of first-order conservation partial differential equations by using random graphs and branching processes (*A preprint on this will appear very soon*). This fits into my broader interest of representing/solving partial differential equations using stochastic processes. 
 
 
-### Definition lists can be used with HTML syntax.
+## Publications
+Below you can find my preprints and publications.
+- Higher order moments for SPDE with monotone nonlinearities [Link](https://arxiv.org/abs/2203.15307)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Employment 
+I am currently a third year PhD Student at Utrecht University. My supervisor is Dr. [Ivan Kryven](https://www.uu.nl/staff/IVKryven). Previously, I was a student in applied mathematics and applied physics at Delft University of Technology where I wrote my master's thesis under Prof. [Mark Veraar](https://fa.ewi.tudelft.nl/~veraar/) and Dr. [Manuel Gnann](https://sites.google.com/view/manuelgnannpersonalhomepage/home).
+
+## Teaching
+I have been involved as a student assistant in several courses:
+- Mathematical statistical mechanics, masters course (2023/2024)
+- Analysis, first year course (2022/2023)
+- Calculus and linear algebra, first year course (2022/2023)
+- Modelling with ODEs and PDEs, third year course (2022/2023)
+- Statistics, second year course (2021/2022)
+- Introduction to numerical analysis (2021/2022)
+- Introduction to probability and statistics, first year course (2021)
+
+---
+
+# Personal
+If you are interested what I do or think outside of mathematics, please see below. I must admit though that much of my personal life also involves mathematics in some way or another.
+## Articles
+Once in a while I run into a fascinating article and may add it to the list below. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
+- [We shouldn't give classroom lectures anymore](https://www.nieuwarchief.nl/serie5/pdf/naw5-2023-24-3-145.pdf)
+- [Being a noob](http://www.paulgraham.com/noob.html)
+
+## Books
+I have always liked reading both fiction and non-fiction. I am currently reading Cryptonomicon by Neil Stephenson. My current book recommendation is Pride and Prejudice by Jane Austen.
+
+## Games
+I have played a lot of videogames growing up and occasionally still do. I am not playing anything at the moment. My current game recommendation is Elden Ring.
+
+## Movies
+My current movie recommendation is Whiplash by Damien Chazelle.
+
+---
+
+> Everything should be made as simple as possible, but not simpler - Albert Einstein (allegedly)
