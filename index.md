@@ -33,6 +33,7 @@ I have been involved as a student assistant in several courses:
 I think it is important in the digital age to be more open about the tools you use. There are a lot of great digital tools out there to make life easier for you, but you may not know about them! While most of my work as a mathematician still happens with pen and paper. I mostly use (and highly recommend!) the following tools:
 - PARA method for information management. [Link](https://fortelabs.com/blog/para/)
 - LaTeX in VSCode with VIM and Copilot plugins. For more, see the great blogs by [Gilles Castel](https://castel.dev/post/lecture-notes-1/) and [Leandro Chiarni](https://www.lchiarini.com/vim/2022/05/28/Vim-for-mathematicians.html).
+- Git during the writing process.
 - Mathematica for most simple on-paper computations.  
 
 ---
