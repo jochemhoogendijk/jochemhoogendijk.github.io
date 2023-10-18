@@ -4,11 +4,14 @@ layout: default
 
 # Professional
 ## Research interest
-My current research is on solving and deducing properties of first-order conservation partial differential equations by using random graphs and branching processes (*A preprint on this will appear very soon*). This fits into my broader interest of representing/solving partial differential equations using stochastic processes. 
+My current research is on solving and deducing properties of first-order conservation partial differential equations by using random graphs and branching processes. This fits into my broader interest of representing/solving partial differential equations using stochastic processes. 
 
 
 ## Publications
 Below you can find my preprints and publications.
+
+### Preprints
+- Branching process representation for Burgers-like nonlinear partial differential equations (with Ivan Kryven). [Link](https://arxiv.org/abs/2310.11338)
 - Higher order moments for SPDE with monotone nonlinearities (with Manuel Gnann and Mark Veraar). [Link](https://arxiv.org/abs/2203.15307)
 
 
@@ -26,14 +29,19 @@ I have been involved as a student assistant in several courses:
 - Introduction to numerical analysis (2021/2022)
 - Introduction to probability and statistics, first year course (2021)
 
+## Tools
+I think it is important in the digital age to be more open about the tools you use. There are a lot of great digital tools out there to make life easier for you, but you may not know about them! While most of my work as a mathematician still happens with pen and paper. I mostly use (and highly recommend!) the following tools:
+- PARA method for information management. [Link](https://fortelabs.com/blog/para/)
+- LaTeX in VSCode with VIM and Copilot plugins. For more, see the great blogs by [Gilles Castel](https://castel.dev/post/lecture-notes-1/) and [Leandro Chiarni](https://www.lchiarini.com/vim/2022/05/28/Vim-for-mathematicians.html).
+- Mathematica for most simple on-paper computations.  
+
 ---
 
 # Personal
 If you are interested what I do or think outside of mathematics, please see below. I must admit though that much of my personal life also involves mathematics in some way or another.
 ## Interesting Articles
 Once in a while I run into a fascinating article and may add it to the list below. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
-- [We shouldn't give classroom lectures anymore](https://www.nieuwarchief.nl/serie5/pdf/naw5-2023-24-3-145.pdf)
-- [Being a noob](http://www.paulgraham.com/noob.html)
+- [How to do great work](http://www.paulgraham.com/greatwork.html) (This is a long read!)
 
 ## Books
 I have always liked reading both fiction and non-fiction. I am currently reading Cryptonomicon by Neil Stephenson. My current book recommendation is Pride and Prejudice by Jane Austen.
