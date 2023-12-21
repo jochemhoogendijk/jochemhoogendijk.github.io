@@ -45,7 +45,7 @@ Once in a while I run into a fascinating article and may add it to the list belo
 - [How to do great work](http://www.paulgraham.com/greatwork.html) (This is a long read!)
 
 ## Books
-I have always liked reading both fiction and non-fiction. I am currently reading Cryptonomicon by Neil Stephenson. My current book recommendation is Pride and Prejudice by Jane Austen.
+I have always liked reading both fiction and non-fiction. I recently finished Cryptonomicon by Neil Stephenson, a great read if you are into history, mathematics and cyber culture. My current book recommendation is Pride and Prejudice by Jane Austen.
 
 ## Games
 I have played a lot of videogames growing up and occasionally still do. I am not playing anything at the moment. My current game recommendation is Elden Ring.
