@@ -39,19 +39,20 @@ I think it is important in the digital age to be more open about the tools you u
 ---
 
 # Personal
-If you are interested what I do or think outside of mathematics, please see below. I must admit though that much of my personal life also involves mathematics in some way or another.
-## Interesting Articles
-Once in a while I run into a fascinating article and may add it to the list below. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
-- [How to do great work](http://www.paulgraham.com/greatwork.html) (This is a long read!)
+If you are interested what I do or think outside of mathematics, please see below. 
+## Interesting Websites/Blogs
+Once in a while I run into fascinating websites and blogs that I think are worth sharing. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
+- [Bartosz Ciechanowski](https://ciechanow.ski/) This writer has insane posts, with extremely cool animations.
+- [Beating the averages](https://paulgraham.com/avg.html) This is an essay containing some interesting ideas, in particular the Blub paradox. I think the Blub paradox not only applies to programming languages, but also to mathematical tools and theory.
 
 ## Books
-I have always liked reading both fiction and non-fiction. I am currently reading Mythos by Stephen Fry and Sapiens by Yuval Noah Hariri. I recently finished Cryptonomicon by Neil Stephenson, a great read if you are into history, mathematics and cyber culture. My current book recommendation is The Black Swan by Nassim Taleb.
+I have always liked reading both fiction and non-fiction. I am currently reading Little Women by Louisa May Alcott. My current book recommendation is The Black Swan by Nassim Taleb.
 
 ## Games
 I have played a lot of videogames growing up and occasionally still do. I am on a replay of Cyberpunk 2077 every now and then. My current game recommendation is Elden Ring.
 
 ## Movies
-My current movie recommendation is The Hunger Games: The Ballad of Songbirds and Snakes. This is a prequel to the entire Hunger Games series, so please watch or read those first if you are interested!
+My current movie recommendation is Dune: Part 2.
 
 ---
 
