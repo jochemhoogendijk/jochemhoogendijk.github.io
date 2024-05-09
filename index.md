@@ -41,15 +41,15 @@ I think it is important in the digital age to be more open about the tools you u
 # Personal
 If you are interested what I do or think outside of mathematics, please see below. 
 ## Interesting Websites/Blogs
-Once in a while I run into fascinating websites and blogs that I think are worth sharing. I try to add articles that contain a good measure of surprise and new ideas. I think such articles are usually the most informing. 
+Once in a while I run into fascinating websites and blogs that I think are worth sharing. I try to add articles that contain a good measure of surprise and new ideas.
 - [Bartosz Ciechanowski](https://ciechanow.ski/) This writer has insane posts, with extremely cool animations.
 - [Beating the averages](https://paulgraham.com/avg.html) This is an essay containing some interesting ideas, in particular the Blub paradox. I think the Blub paradox not only applies to programming languages, but also to mathematical tools and theory.
 
 ## Books
-I have always liked reading both fiction and non-fiction. I am currently reading Little Women by Louisa May Alcott. My current book recommendation is The Black Swan by Nassim Taleb.
+I have always liked reading both fiction and non-fiction. I am currently reading Norse Mythology by Neil Gaiman and Fooled by Randomness by Nassim Taleb. My current book recommendation is Little Women by Louisa May Alcott.
 
 ## Games
-I have played a lot of videogames growing up and occasionally still do. I am on a replay of Cyberpunk 2077 every now and then. My current game recommendation is Elden Ring.
+I have played a lot of videogames growing up and occasionally still do. I sometimes play Stardew Valley. My current game recommendation is Elden Ring.
 
 ## Movies
 My current movie recommendation is Dune: Part 2.
