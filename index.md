@@ -32,9 +32,9 @@ I have been involved as a student assistant in several courses:
 ## Tools
 I think it is important in the digital age to be more open about the tools you use, so that you may help others. There are a lot of great digital tools out there to make life easier for you, but you may not know about them! While most of my work as a mathematician still happens with pen and paper, I mostly use (and highly recommend!) the following tools:
 - PARA method for information management. [Link](https://fortelabs.com/blog/para/)
-- LaTeX in VSCode with VIM and Copilot plugins. For more, see the great blogs by [Gilles Castel](https://castel.dev/post/lecture-notes-1/) and [Leandro Chiarni](https://www.lchiarini.com/vim/2022/05/28/Vim-for-mathematicians.html).
+- LaTeX in VSCode with VIM keybinds and Copilot plugins. For more, see the great blogs by [Gilles Castel](https://castel.dev/post/lecture-notes-1/) and [Leandro Chiarni](https://www.lchiarini.com/vim/2022/05/28/Vim-for-mathematicians.html).
 - Git during the writing process. This is particularly useful if you are making big modifications to a paper and may want to go back a version.
-- Mathematica for most simple on-paper computations.  
+- Mathematica for most simple on-paper computations.
 
 ---
 
@@ -46,7 +46,7 @@ Once in a while I run into fascinating websites and blogs that I think are worth
 - [Beating the averages](https://paulgraham.com/avg.html) This is an essay containing some interesting ideas, in particular the Blub paradox. I think the Blub paradox not only applies to programming languages, but also to mathematical tools and theory.
 
 ## Books
-I have always liked reading both fiction and non-fiction. I am currently reading Norse Mythology by Neil Gaiman and Fooled by Randomness by Nassim Taleb. My current book recommendation is Little Women by Louisa May Alcott.
+I have always liked reading both fiction and non-fiction. I am currently reading Red Rising by Pierce Brown and Antifragile by Nassim Taleb. My current book recommendation is Little Women by Louisa May Alcott.
 
 ## Games
 I have played a lot of videogames growing up and occasionally still do. I sometimes play Stardew Valley. My current game recommendation is Elden Ring.
