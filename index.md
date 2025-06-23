@@ -15,6 +15,7 @@ Below you can find my preprints and publications.
 - Gelation and localization in multicomponent coagulation with multiplicative kernel through branching processes (with Ivan Kryven and Camillo Schenone) - *Published in the Journal of Statistical Physics* [Link](https://doi.org/10.1007/s10955-024-03301-z)
 
 ### Preprints
+- A limit theorem for the total progeny distribution of multi-type branching processes (with Ivan Kryven and Rik Versendaal). [Link](https://arxiv.org/abs/2503.22518)
 - Branching process representation for Burgers-like nonlinear partial differential equations (with Ivan Kryven). [Link](https://arxiv.org/abs/2310.11338)
 
 ## Employment 
@@ -40,19 +41,7 @@ There are a lot of great digital tools out there to make life easier for you, bu
 ---
 
 # Personal
-If you are interested what I do or think outside of mathematics, please see below. 
-## Interesting Websites/Blogs
-Once in a while I run into fascinating websites and blogs that I think are worth sharing. I try to add articles that contain a good measure of surprise and new ideas.
-- I like reading the [Lindy Newsletter](https://lindynewsletter.beehiiv.com), named after the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect).
-
-## Books
-I have always liked reading both fiction and non-fiction. I am currently going back to the classics and reading Homer's The Odyssey. My current book recommendation is Antifgragile, by Nassim Taleb. 
-
-## Games
-I have played a lot of videogames growing up and occasionally still do. I haven't played anything recently. A game that I enjoyed very much a long time ago is The Witcher 3, with its superb story.
-
-## Movies
-My current movie recommendation is Dune: Part 2.
+Some hobbies in arbitrary order: Reading (add me on [Goodreads](https://www.goodreads.com/user/show/125232726-jochem-hoogendijk)), weight-lifting, running/walking/cycling, skiing.
 
 ---
 
